@@ -71,8 +71,8 @@ STREAMLIT_CHATBOT/
 ### 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/streamlit-chatbot.git
-cd streamlit-chatbot
+git clone https://github.com/shekharkshitij/Chatbot_Application.git
+cd streamlit_chatbot
 ```
 
 ### 2️⃣ **(Optional) Create a Virtual Environment**

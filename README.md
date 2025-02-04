@@ -173,7 +173,7 @@ This project is licensed under the **MIT License**. Feel free to modify and use 
 
 ## **Contact**
 For issues and discussions:
-- **GitHub Issues**: [Open an Issue](https://github.com/your-username/streamlit-chatbot/issues)
+- **GitHub Issues**: [Open an Issue](https://github.com/shekharkshitij/Chatbot_Application/issues)
 - **Email**: mail.kshitijshekhar@gmail.com
 
 Happy Coding! 🚀

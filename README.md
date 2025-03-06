@@ -231,7 +231,7 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 
 For questions, suggestions, or support:
 - **Email:** mail.kshitijshekhar@gmail.com
-- **GitHub:** (https://github.com/shekharkshitij)
+- **GitHub:** https://github.com/shekharkshitij
 
 ---
 
